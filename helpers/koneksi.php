@@ -3,7 +3,7 @@
 $host = "mysql-54502-0.cloudclusters.net";
 $username = "admin";
 $password = "RNZgBemA";
-$db = "wa_sysdev";
+$db = "sneazybot";
 
 $koneksi = mysqli_connect($host, $username, $password, $db) or die("GAGAL");
 
